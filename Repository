@@ -1,0 +1,8 @@
+# JS-and-CSS
+JS and CSS for my blog
+echo # JS-and-CSS >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/KaiserZ33/JS-and-CSS.git
+git push -u origin master
